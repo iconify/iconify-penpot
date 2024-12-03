@@ -1,8 +1,8 @@
 {
 	"name": "Iconify (Dev)",
 	"description": "Open source vector icons from all popular icon sets",
-	"code": "/plugin.js",
-	"icon": "/icon.png",
+	"code": "./plugin.js",
+	"icon": "./icon.png",
 	"permissions": [
 		"content:read",
 		"content:write",
